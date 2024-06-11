@@ -28,15 +28,3 @@
   <p>🤸‍♂️ Atlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
-<br />
-<div align="left" class="contact">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
-  <img alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhelder-manuel-vieira-ruiz-63a2821b4%2F">
-</div>
-<h2>
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
-    alt="code tag" width="40" align="center">
-  Languages:
-</h2>
