@@ -1,13 +1,13 @@
 <h1 align="center">
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVqdzZkZmRsN2RjMG4xbnB6bXZpcDltdzA2MzRyNDdncGhxeThyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mYxaNIP9suGG4murEa/giphy.webp"
-    alt="Hi" width="100" align="center" />
+    alt="Hi" width="125" align="center" />
   My name is Helder
 </h1>
 <h2 align="left">
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozYTQ2bXp5NTExZ3htYmpveDQzOXp0ZzU3cmU3M2VqdW1xanMzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf7wDG3P2Wakmy4Vwj/giphy.webp"
-    alt="dragon ball" width="35" align="center" />
+    alt="dragon ball" width="40" align="center" />
   About me:
 </h2>
 <div class="about-me">
@@ -22,10 +22,21 @@
     - Socrates.
   </p>
   <br />
-  <p>🎓 I'm studying Master's Degree Web Developement<strong>Full Stack</strong>.</p>
-  <p>🎓 I'm studying Certificate of Higher Education<strong>Web Developement</strong>.</p>
+  <p>🎓 I'm studying Master's Degree Web Developement <strong>Full Stack</strong>.</p>
+  <p>🎓 I'm studying Certificate of Higher Education <strong>Web Developement</strong>.</p>
   <p>🎓 University & Master's Degree <strong>Sports Sciences</strong>.</p>
   <p>🤸‍♂️ Atlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
+<br />
+<div align="left" class="contact">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
+  <img alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhelder-manuel-vieira-ruiz-63a2821b4%2F">
+</div>
+<h2>
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
+    alt="code tag" width="40" align="center">
+  Languages:
+</h2>
