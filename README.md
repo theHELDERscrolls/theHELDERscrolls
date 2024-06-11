@@ -28,3 +28,6 @@
   <p>🤸‍♂️ Atlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
+<br />
+<div align="left" class="contact">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
