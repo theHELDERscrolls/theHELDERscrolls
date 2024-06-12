@@ -29,5 +29,10 @@
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
 <br />
-<div align="left" class="contact">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
+<h2>
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
+    alt="code tag" width="40" align="center">
+  Languages:
+</h2>
