@@ -34,5 +34,21 @@
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
     alt="code tag" width="40" align="center">
-  Languages:
+  Skills:
 </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+<h2>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwcDl5dHpmZm4yNmFrOWw5Z2NkNWtiOHFmcHM2OXo5eHh2NDM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yGjmoMPc31ixmSC8rQ/giphy.webp"
+    alt="level up" width="45" align="center">
+  Learning:
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
