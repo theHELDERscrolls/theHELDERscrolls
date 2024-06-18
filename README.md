@@ -2,12 +2,12 @@
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVqdzZkZmRsN2RjMG4xbnB6bXZpcDltdzA2MzRyNDdncGhxeThyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mYxaNIP9suGG4murEa/giphy.webp"
     alt="Hi" width="125" align="center" />
-  my name is Helder
+  my name is Helder.
 </h1>
 <h2 align="left">
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozYTQ2bXp5NTExZ3htYmpveDQzOXp0ZzU3cmU3M2VqdW1xanMzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf7wDG3P2Wakmy4Vwj/giphy.webp"
-    alt="dragon ball" width="40" align="center" />
+    alt="dragon ball" width="50" align="center" />
   About me:
 </h2>
 <div class="about-me">
@@ -33,7 +33,7 @@
 <h2>
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
-    alt="code tag" width="40" align="center">
+    alt="code tag" width="50" align="center">
   Skills:
 </h2>
 <p align="left">
@@ -44,7 +44,7 @@
 <h2>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwcDl5dHpmZm4yNmFrOWw5Z2NkNWtiOHFmcHM2OXo5eHh2NDM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yGjmoMPc31ixmSC8rQ/giphy.webp"
-    alt="level up" width="45" align="center">
+    alt="level up" width="50" align="center">
   Learning:
 </h2>
 <p align="left">
