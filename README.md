@@ -24,7 +24,7 @@
   <br />
   <p>🎓 I'm studying Master's Degree Web Developement <strong>Full Stack</strong>.</p>
   <p>🎓 I'm studying Certificate of Higher Education <strong>Web Developement</strong>.</p>
-  <p>🎓 University & Master's Degree <strong>Sports Sciences</strong>.</p>
+  <p>🎓 University & Master's Degree <strong>Sport Sciences</strong>.</p>
   <p>🤸‍♂️ Athlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
