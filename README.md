@@ -49,6 +49,6 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=js,vite" />
   </a>
 </p>
