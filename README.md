@@ -34,11 +34,55 @@
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
     alt="code tag" width="50" align="center">
-  Skills:
+  Markup and Styling Languages:
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,html" />
+    <img src="https://skillicons.dev/icons?i=css,html" />
+  </a>
+</p>
+<h2>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdmbWlzY2ZrdG53Y2VkemEyaHJicmxsbGJsMmlhZXcyd3kyMWtlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.webp"
+    alt="code tag" width="50" align="center">
+  Programming Languages:
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
+<h2>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdhMXphdzE0aHN0eXp1eHcxaWNmbDN2dzdxMWJqNHdnNGl5eW5udSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H1kmRX2Zd7B77PT4DI/giphy.webp"
+    alt="level up" width="50" align="center">
+  Frameworks and Libraries:
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+<h2>
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmbTd2YTAwYWUxNjVmMm9paTAwZGI1OG8zZWk1cDgycHpkZWl4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5lIFP9pwev2cRfJfAD/giphy.webp"
+    alt="level up" width="50" align="center">
+  Development Tools:
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vite" />
+  </a>
+</p>
+<h2>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByaDdyeHo2aHY1dzI2YWtxYzcxcnY0MXZmejBhamswdmdiNHp0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.webp"
+    alt="level up" width="50" align="center">
+  Design and Prototyping:
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 <h2>
@@ -49,6 +93,6 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vite" />
+    <img src="https://skillicons.dev/icons?i=js,react,figma" />
   </a>
 </p>
