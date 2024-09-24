@@ -23,8 +23,8 @@
   </p>
   <br />
   <p>🎓 I'm studying Master's Degree Web Development <strong>Full Stack</strong>.</p>
-  <p>🎓 I'm studying Certificate of Higher Education <strong>Web Development</strong>.</p>
-  <p>🎓 University & Master's Degree <strong>Sport Sciences</strong>.</p>
+  <p>🎓 I'm studying Bachelor's <strong>Web Development</strong>.</p>
+  <p>🎓 Bachelor's & Master's Degree <strong>Sport Sciences</strong>.</p>
   <p>🤸‍♂️ Athlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, new ideas and projects!</p>
 </div>
