@@ -40,7 +40,7 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,vite,nodejs" />
+    <img src="https://skillicons.dev/icons?i=css,git,html,idea,js,nodejs,sass,vite,vscode" />
   </a>
 </p>
 
@@ -53,6 +53,6 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,mysql,php,python,react,ts" />
+    <img src="https://skillicons.dev/icons?i=angular,java,mysql,php,react,ts" />
   </a>
 </p>
