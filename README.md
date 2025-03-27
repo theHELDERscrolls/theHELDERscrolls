@@ -53,6 +53,6 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,react,ts" />
   </a>
 </p>
