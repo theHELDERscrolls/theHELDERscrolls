@@ -4,55 +4,66 @@
     alt="Hi" width="125" align="center" />
   my name is Helder.
 </h1>
+
 <h2 align="left">
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozYTQ2bXp5NTExZ3htYmpveDQzOXp0ZzU3cmU3M2VqdW1xanMzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf7wDG3P2Wakmy4Vwj/giphy.webp"
     alt="dragon ball" width="50" align="center" />
   About me:
 </h2>
-<div class="about-me">
+
+<div align="justify">
   <img
     src="https://media4.giphy.com/media/3Wvm8u2SX1RqtUHy20/200.webp?cid=790b76116h8v0mupilgs84rv4798qgbkg0kkpquw7zmfzd3s&ep=v1_stickers_search&rid=200.webp&ct=s"
     alt="Socrates" width="250" align="right" />
+
   <p>
-    <q align="center">
-      <i><strong>It is a shame for a man to grow old without seeing the beauty and strengt of which his body is
-          capable.</strong></i>
+    <q>
+      <i><strong>It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.</strong></i>
     </q>
-    - Socrates.
+    – Socrates.
   </p>
-  <br />
-  <p>🎓 Master's Degree Web Development <strong>Full Stack</strong>.</p>
+
+  <p>🎓 Master's Degree in <strong>Full Stack Web Development</strong>.</p>
   <p>🎓 Advanced Vocational Training in <strong>Web Development</strong>.</p>
-  <p>🎓 Bachelor's & Master's Degree <strong>Sport Sciences</strong>.</p>
+  <p>🎓 Bachelor's & Master's Degree in <strong>Sport Sciences</strong>.</p>
   <p>🤸‍♂️ Athlete and gymnastics enjoyer.</p>
   <p>💡 Open to work, create new ideas and projects!</p>
 </div>
-<br />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto">
 
-<!-- KNOW -->
+<br />
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/theHELDERscrolls?style=social&logoSize=auto" />
+
 <h2>
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzZjdkcnI2dmd5M3B0cTgxMThvNjdncnR5YTgyengwdjJmNjA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/trN83pDD8yRDHBGfl3/giphy.webp"
-    alt="code tag" width="50" align="center">
+    alt="code tag" width="50" align="center" />
   My skills:
 </h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,git,github,html,js,react,tailwind,ts,vite" />
   </a>
 </p>
 
-<!-- LEARNING -->
 <h2>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwcDl5dHpmZm4yNmFrOWw5Z2NkNWtiOHFmcHM2OXo5eHh2NDM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yGjmoMPc31ixmSC8rQ/giphy.webp"
-    alt="level up" width="50" align="center">
+    alt="level up" width="50" align="center" />
   Currently Learning:
 </h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,nextjs,nodejs,vitest" />
   </a>
 </p>
+
+<p align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=theHELDERscrolls&show_icons=true&theme=chartreuse-dark" />
+  </a>
+</p>
+
