@@ -44,7 +44,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,react,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,vite" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,nodejs,vitest" />
+    <img src="https://skillicons.dev/icons?i=aws,vitest" />
   </a>
 </p>
 
