@@ -44,7 +44,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=css,express,git,github,html,js,mongodb,nodejs,postman,react,tailwind,ts,vite" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,linux" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,hibernate,java,linux,spring,supabase" />
   </a>
 </p>
 
